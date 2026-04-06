@@ -1,0 +1,7 @@
+.git
+.gitignore
+.m2
+.mvn/wrapper/maven-wrapper.jar
+target
+node_modules
+README.md
